@@ -1,0 +1,164 @@
+{
+  "Depression": [
+  {
+    "name": "Mind",
+    "url": "https://www.mind.org.uk/",
+    "description": "Mental health support and information for depression"
+  },
+  {
+    "name": "NIMH Depression",
+    "url": "https://www.nimh.nih.gov/health/topics/depression",
+    "description": "Official mental health research and treatment guidance"
+  },
+  {
+    "name": "HelpGuide",
+    "url": "https://www.helpguide.org/",
+    "description": "Self-help strategies and depression recovery resources"
+  }
+],
+
+"Anxiety": [
+  {
+    "name": "Anxiety and Depression Association of America",
+    "url": "https://adaa.org/",
+    "description": "Anxiety disorder education and support resources"
+  },
+  {
+    "name": "Mind Anxiety Support",
+    "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/anxiety-and-panic-attacks/",
+    "description": "Guidance for managing anxiety and panic attacks"
+  },
+  {
+    "name": "NHS Anxiety Overview",
+    "url": "https://www.nhs.uk/mental-health/conditions/anxiety/",
+    "description": "Symptoms, treatment, and coping strategies for anxiety"
+  }
+],
+
+"PTSD": [
+  {
+    "name": "PTSD UK",
+    "url": "https://www.ptsduk.org/",
+    "description": "Support and education for PTSD awareness"
+  },
+  {
+    "name": "National Center for PTSD",
+    "url": "https://www.ptsd.va.gov/",
+    "description": "Research-based PTSD treatment and recovery information"
+  },
+  {
+    "name": "Mind Trauma Support",
+    "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/post-traumatic-stress-disorder-ptsd/",
+    "description": "Help and guidance for trauma and PTSD recovery"
+  }
+],
+  
+  "OCD": [
+    {
+      "name": "OCD UK",
+      "url": "https://www.ocduk.org/",
+      "description": "OCD awareness and support"
+    },
+    {
+      "name": "International OCD Foundation",
+      "url": "https://iocdf.org/",
+      "description": "OCD education and treatment information"
+    },
+    {
+      "name": "NOCD",
+      "url": "https://www.treatmyocd.com/",
+      "description": "OCD therapy and support platform"
+    }
+  ],
+
+  "Therapy & Counseling": [
+    {
+      "name": "BetterHelp",
+      "url": "https://www.betterhelp.com/",
+      "description": "Online therapy platform"
+    },
+    {
+      "name": "Talkspace",
+      "url": "https://www.talkspace.com/",
+      "description": "Professional online counseling"
+    },
+    {
+      "name": "7 Cups",
+      "url": "https://www.7cups.com/",
+      "description": "Emotional support and therapy"
+    }
+  ],
+
+  "Self-Assessment": [
+    {
+      "name": "Psych Central Tests",
+      "url": "https://psychcentral.com/quizzes",
+      "description": "Mental health self-assessment quizzes"
+    },
+    {
+      "name": "Mental Health America Screening Tools",
+      "url": "https://screening.mhanational.org/screening-tools/",
+      "description": "Online mental health tests"
+    },
+    {
+      "name": "Mind Diagnostics",
+      "url": "https://www.mind-diagnostics.org/",
+      "description": "Disorder screening tools"
+    }
+  ],
+
+  "Awareness & Education": [
+    {
+      "name": "Mental Health America",
+      "url": "https://mhanational.org/",
+      "description": "Mental health awareness and education"
+    },
+    {
+      "name": "NAMI",
+      "url": "https://www.nami.org/",
+      "description": "Mental illness awareness and support"
+    },
+    {
+      "name": "Heads Together",
+      "url": "https://www.headstogether.org.uk/",
+      "description": "Awareness campaigns and support"
+    }
+  ],
+
+  "Crisis Support & Suicide Prevention": [
+    {
+      "name": "988 Suicide & Crisis Lifeline",
+      "url": "https://988lifeline.org/",
+      "description": "Immediate crisis and suicide prevention support"
+    },
+    {
+      "name": "Samaritans",
+      "url": "https://www.samaritans.org/",
+      "description": "Emotional support and suicide prevention"
+    },
+    {
+      "name": "Befrienders Worldwide",
+      "url": "https://www.befrienders.org/",
+      "description": "Global emotional crisis support"
+    }
+  ],
+
+  "Stress Management & Wellness": 
+  [
+    {
+      "name": "Headspace",
+      "url": "https://www.headspace.com/",
+      "description": "Meditation and mindfulness"
+    },
+    {
+      "name": "Calm",
+      "url": "https://www.calm.com/",
+      "description": "Relaxation and stress reduction"
+    },
+    {
+      "name": "Mindful",
+      "url": "https://www.mindful.org/",
+      "description": "Mindfulness and stress management"
+    }
+  ]
+}
